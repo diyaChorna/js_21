@@ -1,0 +1,15 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+.all{
+      height: 956px;
+      padding: 8%;
+}
+.kolo{
+      width: 5%;
+      height: 30%;
+      border-radius: 80%;
+      background: rgb(174, 0, 255);
+}
